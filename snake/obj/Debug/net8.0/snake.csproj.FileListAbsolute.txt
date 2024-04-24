@@ -1,0 +1,14 @@
+C:\Users\matej.cernohorsky\source\repos\snake\snake\bin\Debug\net8.0\snake.exe
+C:\Users\matej.cernohorsky\source\repos\snake\snake\bin\Debug\net8.0\snake.deps.json
+C:\Users\matej.cernohorsky\source\repos\snake\snake\bin\Debug\net8.0\snake.runtimeconfig.json
+C:\Users\matej.cernohorsky\source\repos\snake\snake\bin\Debug\net8.0\snake.dll
+C:\Users\matej.cernohorsky\source\repos\snake\snake\bin\Debug\net8.0\snake.pdb
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.AssemblyInfoInputs.cache
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.AssemblyInfo.cs
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.csproj.CoreCompileInputs.cache
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.dll
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\refint\snake.dll
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.pdb
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\snake.genruntimeconfig.cache
+C:\Users\matej.cernohorsky\source\repos\snake\snake\obj\Debug\net8.0\ref\snake.dll
